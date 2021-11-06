@@ -58,7 +58,7 @@ $ pip2 install bs4
 
 $ pip2 install requests
 
-$ git clone https://github.com/GunawanXD/FbIns
+$ git clone https://github.com/GunawanXD/Fbins
 
 $ cd Premium
 
